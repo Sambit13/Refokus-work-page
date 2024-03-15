@@ -1,0 +1,12 @@
+@font-face {
+    font-family: Satoshi;
+    src: url(../src/assets/Satoshi-Regular.otf);
+}
+
+.font {
+    font-family: Satoshi;
+}
+.box{
+    background-color: rgb(24,24,27);
+    color: white;
+}
